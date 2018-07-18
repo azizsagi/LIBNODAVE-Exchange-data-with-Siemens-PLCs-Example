@@ -1,0 +1,16 @@
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\LibnoDave\LibnoDave\LibnoDave\bin\x86\Debug\LibnoDave.exe.config
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\LibnoDave\LibnoDave\LibnoDave\bin\x86\Debug\LibnoDave.exe
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\LibnoDave\LibnoDave\LibnoDave\bin\x86\Debug\LibnoDave.pdb
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\LibnoDave\LibnoDave\LibnoDave\bin\x86\Debug\libnodave.net.dll
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\LibnoDave\LibnoDave\LibnoDave\obj\x86\Debug\LibnoDave.Form1.resources
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\LibnoDave\LibnoDave\LibnoDave\obj\x86\Debug\LibnoDave.Properties.Resources.resources
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\LibnoDave\LibnoDave\LibnoDave\obj\x86\Debug\LibnoDave.csproj.GenerateResource.Cache
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\LibnoDave\LibnoDave\LibnoDave\obj\x86\Debug\LibnoDave.exe
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\LibnoDave\LibnoDave\LibnoDave\obj\x86\Debug\LibnoDave.pdb
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\LibnoDave\LibnoDave\LibnoDave\obj\x86\Debug\LibnoDave.csprojResolveAssemblyReference.cache
+C:\Users\faruk.aziz\Desktop\LibnoDave\LibnoDave\bin\x86\Debug\LibnoDave.exe.config
+C:\Users\faruk.aziz\Desktop\LibnoDave\LibnoDave\obj\x86\Debug\LibnoDave.exe
+C:\Users\faruk.aziz\Desktop\LibnoDave\LibnoDave\obj\x86\Debug\LibnoDave.csprojResolveAssemblyReference.cache
+C:\Users\faruk.aziz\Desktop\LibnoDave\LibnoDave\obj\x86\Debug\LibnoDave.Form1.resources
+C:\Users\faruk.aziz\Desktop\LibnoDave\LibnoDave\obj\x86\Debug\LibnoDave.Properties.Resources.resources
+C:\Users\faruk.aziz\Desktop\LibnoDave\LibnoDave\obj\x86\Debug\LibnoDave.csproj.GenerateResource.Cache
